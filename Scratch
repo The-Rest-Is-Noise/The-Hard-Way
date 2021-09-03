@@ -1,0 +1,13 @@
+#my_name = 'Keith S. Taylor'
+#my_age = 35 #defo a lie
+#my_height = 192 #cm
+#my_weight = 84 #kg
+#my_eyes = "brown"
+#my_teeth = "white" #ish
+#my_hair = "brown"
+
+#print(f"Lets talk about {my_name}.")
+
+my_name= "raushan"
+print(f"Let's talk about {my_name}.")
+

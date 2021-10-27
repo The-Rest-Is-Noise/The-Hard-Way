@@ -9,5 +9,5 @@
 #print(f"Lets talk about {my_name}.")
 
 my_name= "raushan"
-print(f"Let's talk about {my_name}.")
+print("Let's talk about {}.").format(my_name)
 

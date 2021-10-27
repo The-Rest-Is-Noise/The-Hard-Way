@@ -24,6 +24,6 @@ print(txt.read())
 # prints out the value of txt_again
 # print(txt_again.read())
 
-txt = close(filename)
+txt.close()
 
 #print(f"txt_again = {txt_again}")
